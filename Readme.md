@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Антон](https://up.htmlacademy.ru/htmlcss/25/user/1007307).
-* Наставник: `Неизвестно`.
+* Наставник: [Vladislav Rostov](https://up.htmlacademy.ru/htmlcss/25/user/425565).
 
 ---
 
